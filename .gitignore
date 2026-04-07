@@ -1,0 +1,32 @@
+# Build folders
+build/
+*/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VSCode
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Video outputs
+*.avi
+*.mp4
+*.mkv
+
+# Temporary files
+*.tmp
+*.temp
+
+# Windows
+Thumbs.db
+Desktop.ini
+ncnn/
+dlib/
