@@ -1,0 +1,7802 @@
+Shared memory and semaphores initialized. Size of SharedData: 32 bytes
+[0 NVIDIA Tegra X1 (nvgpu)]  queueC=0[16]  queueG=0[16]  queueT=0[16]
+[0 NVIDIA Tegra X1 (nvgpu)]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 NVIDIA Tegra X1 (nvgpu)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 NVIDIA Tegra X1 (nvgpu)]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+Rect 26.229721 0.000000 264.723389 299.000000 Sorce: 1.000000
+[ WARN:0] global /tmp/build_opencv/opencv/modules/videoio/src/cap_gstreamer.cpp (1761) handleMessage OpenCV | GStreamer warning: Embedded video playback halted; module typefind reported: Could not determine type of stream.
+[ WARN:0] global /tmp/build_opencv/opencv/modules/videoio/src/cap_gstreamer.cpp (888) open OpenCV | GStreamer warning: unable to start pipeline
+[ WARN:0] global /tmp/build_opencv/opencv/modules/videoio/src/cap_gstreamer.cpp (480) isPipelinePlaying OpenCV | GStreamer warning: GStreamer: pipeline have not been created
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Rect 129.731552 22.138506 144.541885 41.441086 Sorce: 0.821777
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Left Speed: 1
+Right Speed: 1
+clear fall signal
+Rect 129.082825 30.090874 143.726746 49.530220 Sorce: 0.846191
+person
+250
+Left Speed: 174
+Right Speed: 174
+Lui
+250
+Left Speed: 174
+Right Speed: 174
+Lui
+250
+Left Speed: 174
+Right Speed: 174
+Lui
+267
+Left Speed: 175
+Right Speed: 175
+Tien
+267
+Left Speed: 175
+Right Speed: 175
+Tien
+267
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+245
+Left Speed: 0
+Right Speed: 0
+Dung
+245
+Left Speed: 0
+Right Speed: 0
+Dung
+245
+Left Speed: 0
+Right Speed: 0
+Dung
+245
+Left Speed: 0
+Right Speed: 0
+Dung
+263
+Left Speed: 175
+Right Speed: 175
+Tien
+245
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+246
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+196
+Left Speed: 0
+Right Speed: 0
+Dung
+196
+Left Speed: 0
+Right Speed: 0
+Dung
+196
+Left Speed: 0
+Right Speed: 0
+Dung
+196
+Left Speed: 0
+Right Speed: 0
+Dung
+196
+Left Speed: 0
+Right Speed: 0
+Dung
+196
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+197
+Left Speed: 0
+Right Speed: 0
+Dung
+197
+Left Speed: 0
+Right Speed: 0
+Dung
+182
+Left Speed: 0
+Right Speed: 0
+Dung
+182
+Left Speed: 0
+Right Speed: 0
+Dung
+197
+Left Speed: 0
+Right Speed: 0
+Dung
+197
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+175
+Left Speed: 174
+Right Speed: 174
+Lui
+175
+Left Speed: 174
+Right Speed: 174
+Lui
+175
+Left Speed: 174
+Right Speed: 174
+Lui
+175
+Left Speed: 174
+Right Speed: 174
+Lui
+Running person detection
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+216
+Left Speed: 0
+Right Speed: 0
+Dung
+216
+Left Speed: 0
+Right Speed: 0
+Dung
+216
+Left Speed: 0
+Right Speed: 0
+Dung
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+224
+Left Speed: 0
+Right Speed: 0
+Dung
+224
+Left Speed: 0
+Right Speed: 0
+Dung
+224
+Left Speed: 0
+Right Speed: 0
+Dung
+224
+Left Speed: 0
+Right Speed: 0
+Dung
+224
+Left Speed: 0
+Right Speed: 0
+Dung
+224
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+239
+Left Speed: 0
+Right Speed: 0
+Dung
+239
+Left Speed: 0
+Right Speed: 0
+Dung
+239
+Left Speed: 0
+Right Speed: 0
+Dung
+239
+Left Speed: 0
+Right Speed: 0
+Dung
+239
+Left Speed: 0
+Right Speed: 0
+Dung
+239
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+204
+Left Speed: 0
+Right Speed: 0
+Dung
+204
+Left Speed: 0
+Right Speed: 0
+Dung
+204
+Left Speed: 0
+Right Speed: 0
+Dung
+204
+Left Speed: 0
+Right Speed: 0
+Dung
+204
+Left Speed: 0
+Right Speed: 0
+Dung
+204
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+236
+Left Speed: 0
+Right Speed: 0
+Dung
+236
+Left Speed: 0
+Right Speed: 0
+Dung
+236
+Left Speed: 0
+Right Speed: 0
+Dung
+236
+Left Speed: 0
+Right Speed: 0
+Dung
+236
+Left Speed: 0
+Right Speed: 0
+Dung
+236
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+225
+Left Speed: 0
+Right Speed: 0
+Dung
+225
+Left Speed: 0
+Right Speed: 0
+Dung
+225
+Left Speed: 0
+Right Speed: 0
+Dung
+225
+Left Speed: 0
+Right Speed: 0
+Dung
+225
+Left Speed: 0
+Right Speed: 0
+Dung
+209
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+193
+Left Speed: 0
+Right Speed: 0
+Dung
+193
+Left Speed: 0
+Right Speed: 0
+Dung
+193
+Left Speed: 0
+Right Speed: 0
+Dung
+193
+Left Speed: 0
+Right Speed: 0
+Dung
+193
+Left Speed: 0
+Right Speed: 0
+Dung
+193
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+190
+Left Speed: 0
+Right Speed: 0
+Dung
+190
+Left Speed: 0
+Right Speed: 0
+Dung
+190
+Left Speed: 0
+Right Speed: 0
+Dung
+190
+Left Speed: 0
+Right Speed: 0
+Dung
+190
+Left Speed: 0
+Right Speed: 0
+Dung
+190
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+185
+Left Speed: 0
+Right Speed: 0
+Dung
+185
+Left Speed: 0
+Right Speed: 0
+Dung
+185
+Left Speed: 0
+Right Speed: 0
+Dung
+185
+Left Speed: 0
+Right Speed: 0
+Dung
+185
+Left Speed: 0
+Right Speed: 0
+Dung
+185
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+215
+Left Speed: 0
+Right Speed: 0
+Dung
+215
+Left Speed: 0
+Right Speed: 0
+Dung
+215
+Left Speed: 0
+Right Speed: 0
+Dung
+215
+Left Speed: 0
+Right Speed: 0
+Dung
+215
+Left Speed: 0
+Right Speed: 0
+Dung
+215
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+185
+Left Speed: 0
+Right Speed: 0
+Dung
+185
+Left Speed: 0
+Right Speed: 0
+Dung
+185
+Left Speed: 0
+Right Speed: 0
+Dung
+185
+Left Speed: 0
+Right Speed: 0
+Dung
+185
+Left Speed: 0
+Right Speed: 0
+Dung
+185
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+223
+Left Speed: 0
+Right Speed: 220
+Qua trai
+223
+Left Speed: 0
+Right Speed: 220
+Qua trai
+223
+Left Speed: 0
+Right Speed: 220
+Qua trai
+223
+Left Speed: 0
+Right Speed: 220
+Qua trai
+Running person detection
+233
+Left Speed: 0
+Right Speed: 220
+Qua trai
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+231
+Left Speed: 0
+Right Speed: 0
+Dung
+231
+Left Speed: 0
+Right Speed: 0
+Dung
+231
+Left Speed: 0
+Right Speed: 0
+Dung
+231
+Left Speed: 0
+Right Speed: 0
+Dung
+231
+Left Speed: 0
+Right Speed: 0
+Dung
+231
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+216
+Left Speed: 0
+Right Speed: 0
+Dung
+216
+Left Speed: 0
+Right Speed: 0
+Dung
+216
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+239
+Left Speed: 0
+Right Speed: 0
+Dung
+239
+Left Speed: 0
+Right Speed: 0
+Dung
+239
+Left Speed: 0
+Right Speed: 0
+Dung
+239
+Left Speed: 0
+Right Speed: 0
+Dung
+239
+Left Speed: 0
+Right Speed: 0
+Dung
+239
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+238
+Left Speed: 0
+Right Speed: 0
+Dung
+238
+Left Speed: 0
+Right Speed: 0
+Dung
+238
+Left Speed: 0
+Right Speed: 0
+Dung
+238
+Left Speed: 0
+Right Speed: 0
+Dung
+238
+Left Speed: 0
+Right Speed: 0
+Dung
+238
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+196
+Left Speed: 0
+Right Speed: 0
+Dung
+196
+Left Speed: 0
+Right Speed: 0
+Dung
+196
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+211
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+213
+Left Speed: 0
+Right Speed: 0
+Dung
+213
+Left Speed: 0
+Right Speed: 0
+Dung
+213
+Left Speed: 0
+Right Speed: 0
+Dung
+213
+Left Speed: 0
+Right Speed: 0
+Dung
+213
+Left Speed: 0
+Right Speed: 0
+Dung
+213
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+233
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+202
+Left Speed: 0
+Right Speed: 0
+Dung
+202
+Left Speed: 0
+Right Speed: 0
+Dung
+202
+Left Speed: 0
+Right Speed: 0
+Dung
+202
+Left Speed: 0
+Right Speed: 0
+Dung
+202
+Left Speed: 0
+Right Speed: 0
+Dung
+202
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+202
+Left Speed: 0
+Right Speed: 0
+Dung
+202
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+217
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+231
+Left Speed: 0
+Right Speed: 0
+Dung
+246
+Left Speed: 0
+Right Speed: 0
+Dung
+231
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+195
+Left Speed: 0
+Right Speed: 0
+Dung
+195
+Left Speed: 0
+Right Speed: 0
+Dung
+195
+Left Speed: 0
+Right Speed: 0
+Dung
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+226
+Left Speed: 0
+Right Speed: 0
+Dung
+226
+Left Speed: 0
+Right Speed: 0
+Dung
+226
+Left Speed: 0
+Right Speed: 0
+Dung
+226
+Left Speed: 0
+Right Speed: 0
+Dung
+226
+Left Speed: 0
+Right Speed: 0
+Dung
+226
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+207
+Left Speed: 0
+Right Speed: 0
+Dung
+207
+Left Speed: 0
+Right Speed: 0
+Dung
+207
+Left Speed: 0
+Right Speed: 0
+Dung
+207
+Left Speed: 0
+Right Speed: 0
+Dung
+207
+Left Speed: 0
+Right Speed: 0
+Dung
+207
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+209
+Left Speed: 0
+Right Speed: 0
+Dung
+209
+Left Speed: 0
+Right Speed: 0
+Dung
+209
+Left Speed: 0
+Right Speed: 0
+Dung
+209
+Left Speed: 0
+Right Speed: 0
+Dung
+209
+Left Speed: 0
+Right Speed: 0
+Dung
+209
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+208
+Left Speed: 0
+Right Speed: 0
+Dung
+208
+Left Speed: 0
+Right Speed: 0
+Dung
+208
+Left Speed: 0
+Right Speed: 0
+Dung
+208
+Left Speed: 0
+Right Speed: 0
+Dung
+208
+Left Speed: 0
+Right Speed: 0
+Dung
+208
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+210
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+216
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+216
+Left Speed: 0
+Right Speed: 0
+Dung
+216
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+207
+Left Speed: 0
+Right Speed: 0
+Dung
+207
+Left Speed: 0
+Right Speed: 0
+Dung
+207
+Left Speed: 0
+Right Speed: 0
+Dung
+207
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+192
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+207
+Left Speed: 0
+Right Speed: 0
+Dung
+207
+Left Speed: 0
+Right Speed: 0
+Dung
+207
+Left Speed: 0
+Right Speed: 0
+Dung
+207
+Left Speed: 0
+Right Speed: 0
+Dung
+207
+Left Speed: 0
+Right Speed: 0
+Dung
+207
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+214
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+228
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+197
+Left Speed: 0
+Right Speed: 0
+Dung
+197
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+197
+Left Speed: 0
+Right Speed: 0
+Dung
+197
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+197
+Left Speed: 0
+Right Speed: 0
+Dung
+197
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+212
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+222
+Left Speed: 0
+Right Speed: 0
+Dung
+222
+Left Speed: 0
+Right Speed: 0
+Dung
+222
+Left Speed: 0
+Right Speed: 0
+Dung
+222
+Left Speed: 0
+Right Speed: 0
+Dung
+222
+Left Speed: 0
+Right Speed: 0
+Dung
+222
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+216
+Left Speed: 0
+Right Speed: 0
+Dung
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+221
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+245
+Left Speed: 0
+Right Speed: 0
+Dung
+245
+Left Speed: 0
+Right Speed: 0
+Dung
+245
+Left Speed: 0
+Right Speed: 0
+Dung
+245
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+213
+Left Speed: 0
+Right Speed: 0
+Dung
+213
+Left Speed: 0
+Right Speed: 0
+Dung
+213
+Left Speed: 0
+Right Speed: 0
+Dung
+213
+Left Speed: 0
+Right Speed: 0
+Dung
+213
+Left Speed: 0
+Right Speed: 0
+Dung
+213
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+213
+Left Speed: 0
+Right Speed: 0
+Dung
+213
+Left Speed: 0
+Right Speed: 0
+Dung
+213
+Left Speed: 0
+Right Speed: 0
+Dung
+229
+Left Speed: 0
+Right Speed: 0
+Dung
+245
+Left Speed: 0
+Right Speed: 0
+Dung
+245
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+268
+Left Speed: 175
+Right Speed: 175
+Tien
+268
+Left Speed: 175
+Right Speed: 175
+Tien
+268
+Left Speed: 175
+Right Speed: 175
+Tien
+268
+Left Speed: 175
+Right Speed: 175
+Tien
+268
+Left Speed: 175
+Right Speed: 175
+Tien
+268
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+248
+Left Speed: 0
+Right Speed: 0
+Dung
+248
+Left Speed: 0
+Right Speed: 0
+Dung
+248
+Left Speed: 0
+Right Speed: 0
+Dung
+248
+Left Speed: 0
+Right Speed: 0
+Dung
+248
+Left Speed: 0
+Right Speed: 0
+Dung
+248
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+253
+Left Speed: 175
+Right Speed: 175
+Tien
+253
+Left Speed: 175
+Right Speed: 175
+Tien
+253
+Left Speed: 175
+Right Speed: 175
+Tien
+271
+Left Speed: 175
+Right Speed: 175
+Tien
+271
+Left Speed: 175
+Right Speed: 175
+Tien
+271
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+265
+Left Speed: 175
+Right Speed: 175
+Tien
+265
+Left Speed: 175
+Right Speed: 175
+Tien
+265
+Left Speed: 175
+Right Speed: 175
+Tien
+265
+Left Speed: 175
+Right Speed: 175
+Tien
+265
+Left Speed: 175
+Right Speed: 175
+Tien
+265
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+267
+Left Speed: 175
+Right Speed: 175
+Tien
+267
+Left Speed: 175
+Right Speed: 175
+Tien
+267
+Left Speed: 175
+Right Speed: 175
+Tien
+267
+Left Speed: 175
+Right Speed: 175
+Tien
+267
+Left Speed: 175
+Right Speed: 175
+Tien
+267
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+263
+Left Speed: 175
+Right Speed: 175
+Tien
+263
+Left Speed: 175
+Right Speed: 175
+Tien
+263
+Left Speed: 175
+Right Speed: 175
+Tien
+263
+Left Speed: 175
+Right Speed: 175
+Tien
+263
+Left Speed: 175
+Right Speed: 175
+Tien
+263
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+265
+Left Speed: 175
+Right Speed: 175
+Tien
+265
+Left Speed: 175
+Right Speed: 175
+Tien
+265
+Left Speed: 175
+Right Speed: 175
+Tien
+265
+Left Speed: 175
+Right Speed: 175
+Tien
+265
+Left Speed: 175
+Right Speed: 175
+Tien
+265
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+Empty in RUN PERSON DETECTION
+265
+Left Speed: 175
+Right Speed: 175
+Tien
+265
+Left Speed: 175
+Right Speed: 175
+Tien
+247
+Left Speed: 0
+Right Speed: 0
+Dung
+247
+Left Speed: 0
+Right Speed: 0
+Dung
+247
+Left Speed: 0
+Right Speed: 0
+Dung
+247
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+246
+Left Speed: 0
+Right Speed: 0
+Dung
+246
+Left Speed: 0
+Right Speed: 0
+Dung
+246
+Left Speed: 0
+Right Speed: 0
+Dung
+246
+Left Speed: 0
+Right Speed: 0
+Dung
+246
+Left Speed: 0
+Right Speed: 0
+Dung
+246
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+223
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+219
+Left Speed: 0
+Right Speed: 0
+Dung
+219
+Left Speed: 0
+Right Speed: 0
+Dung
+219
+Left Speed: 0
+Right Speed: 0
+Dung
+219
+Left Speed: 0
+Right Speed: 0
+Dung
+219
+Left Speed: 0
+Right Speed: 0
+Dung
+219
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+202
+Left Speed: 0
+Right Speed: 0
+Dung
+202
+Left Speed: 0
+Right Speed: 0
+Dung
+188
+Left Speed: 0
+Right Speed: 0
+Dung
+188
+Left Speed: 0
+Right Speed: 0
+Dung
+188
+Left Speed: 0
+Right Speed: 0
+Dung
+188
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+171
+Left Speed: 220
+Right Speed: 0
+Qua phai
+171
+Left Speed: 220
+Right Speed: 0
+Qua phai
+171
+Left Speed: 220
+Right Speed: 0
+Qua phai
+171
+Left Speed: 220
+Right Speed: 0
+Qua phai
+171
+Left Speed: 220
+Right Speed: 0
+Qua phai
+171
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+171
+Left Speed: 174
+Right Speed: 174
+Lui
+158
+Left Speed: 174
+Right Speed: 174
+Lui
+146
+Left Speed: 174
+Right Speed: 174
+Lui
+146
+Left Speed: 174
+Right Speed: 174
+Lui
+146
+Left Speed: 174
+Right Speed: 174
+Lui
+146
+Left Speed: 174
+Right Speed: 174
+Lui
+Running person detection
+Empty in RUN PERSON DETECTION
+146
+Left Speed: 174
+Right Speed: 174
+Lui
+146
+Left Speed: 174
+Right Speed: 174
+Lui
+146
+Left Speed: 174
+Right Speed: 174
+Lui
+146
+Left Speed: 174
+Right Speed: 174
+Lui
+146
+Left Speed: 174
+Right Speed: 174
+Lui
+146
+Left Speed: 174
+Right Speed: 174
+Lui
+Running person detection
+146
+Left Speed: 174
+Right Speed: 174
+Lui
+134
+Left Speed: 174
+Right Speed: 174
+Lui
+134
+Left Speed: 174
+Right Speed: 174
+Lui
+134
+Left Speed: 174
+Right Speed: 174
+Lui
+134
+Left Speed: 174
+Right Speed: 174
+Lui
+134
+Left Speed: 174
+Right Speed: 174
+Lui
+Running person detection
+Empty in RUN PERSON DETECTION
+134
+Left Speed: 174
+Right Speed: 174
+Lui
+134
+Left Speed: 174
+Right Speed: 174
+Lui
+134
+Left Speed: 174
+Right Speed: 174
+Lui
+134
+Left Speed: 174
+Right Speed: 174
+Lui
+134
+Left Speed: 174
+Right Speed: 174
+Lui
+134
+Left Speed: 174
+Right Speed: 174
+Lui
+Running person detection
+134
+Left Speed: 174
+Right Speed: 174
+Lui
+146
+Left Speed: 174
+Right Speed: 174
+Lui
+146
+Left Speed: 174
+Right Speed: 174
+Lui
+146
+Left Speed: 174
+Right Speed: 174
+Lui
+158
+Left Speed: 174
+Right Speed: 174
+Lui
+171
+Left Speed: 174
+Right Speed: 174
+Lui
+Running person detection
+171
+Left Speed: 174
+Right Speed: 174
+Lui
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+184
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+209
+Left Speed: 0
+Right Speed: 0
+Dung
+209
+Left Speed: 0
+Right Speed: 0
+Dung
+209
+Left Speed: 0
+Right Speed: 0
+Dung
+209
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+218
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+226
+Left Speed: 0
+Right Speed: 0
+Dung
+226
+Left Speed: 0
+Right Speed: 0
+Dung
+226
+Left Speed: 0
+Right Speed: 0
+Dung
+226
+Left Speed: 0
+Right Speed: 0
+Dung
+226
+Left Speed: 0
+Right Speed: 0
+Dung
+226
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+216
+Left Speed: 0
+Right Speed: 0
+Dung
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+245
+Left Speed: 0
+Right Speed: 0
+Dung
+245
+Left Speed: 0
+Right Speed: 0
+Dung
+245
+Left Speed: 0
+Right Speed: 0
+Dung
+245
+Left Speed: 0
+Right Speed: 0
+Dung
+245
+Left Speed: 0
+Right Speed: 0
+Dung
+245
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+270
+Left Speed: 175
+Right Speed: 175
+Tien
+270
+Left Speed: 175
+Right Speed: 175
+Tien
+270
+Left Speed: 175
+Right Speed: 175
+Tien
+270
+Left Speed: 175
+Right Speed: 175
+Tien
+270
+Left Speed: 175
+Right Speed: 175
+Tien
+270
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+283
+Left Speed: 175
+Right Speed: 175
+Tien
+283
+Left Speed: 175
+Right Speed: 175
+Tien
+283
+Left Speed: 175
+Right Speed: 175
+Tien
+283
+Left Speed: 175
+Right Speed: 175
+Tien
+283
+Left Speed: 175
+Right Speed: 175
+Tien
+283
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+289
+Left Speed: 175
+Right Speed: 175
+Tien
+289
+Left Speed: 175
+Right Speed: 175
+Tien
+289
+Left Speed: 175
+Right Speed: 175
+Tien
+289
+Left Speed: 175
+Right Speed: 175
+Tien
+289
+Left Speed: 175
+Right Speed: 175
+Tien
+289
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+289
+Left Speed: 175
+Right Speed: 175
+Tien
+289
+Left Speed: 175
+Right Speed: 175
+Tien
+289
+Left Speed: 175
+Right Speed: 175
+Tien
+289
+Left Speed: 175
+Right Speed: 175
+Tien
+289
+Left Speed: 175
+Right Speed: 175
+Tien
+289
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+278
+Left Speed: 175
+Right Speed: 175
+Tien
+278
+Left Speed: 175
+Right Speed: 175
+Tien
+278
+Left Speed: 175
+Right Speed: 175
+Tien
+278
+Left Speed: 175
+Right Speed: 175
+Tien
+278
+Left Speed: 175
+Right Speed: 175
+Tien
+260
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+270
+Left Speed: 175
+Right Speed: 175
+Tien
+270
+Left Speed: 175
+Right Speed: 175
+Tien
+270
+Left Speed: 175
+Right Speed: 175
+Tien
+252
+Left Speed: 175
+Right Speed: 175
+Tien
+252
+Left Speed: 175
+Right Speed: 175
+Tien
+252
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+266
+Left Speed: 220
+Right Speed: 0
+Qua phai
+266
+Left Speed: 220
+Right Speed: 0
+Qua phai
+266
+Left Speed: 220
+Right Speed: 0
+Qua phai
+266
+Left Speed: 220
+Right Speed: 0
+Qua phai
+266
+Left Speed: 220
+Right Speed: 0
+Qua phai
+266
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+300
+Left Speed: 220
+Right Speed: 0
+Qua phai
+300
+Left Speed: 220
+Right Speed: 0
+Qua phai
+300
+Left Speed: 220
+Right Speed: 0
+Qua phai
+321
+Left Speed: 220
+Right Speed: 0
+Qua phai
+341
+Left Speed: 220
+Right Speed: 0
+Qua phai
+341
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+382
+Left Speed: 220
+Right Speed: 0
+Qua phai
+382
+Left Speed: 220
+Right Speed: 0
+Qua phai
+405
+Left Speed: 220
+Right Speed: 0
+Qua phai
+405
+Left Speed: 220
+Right Speed: 0
+Qua phai
+405
+Left Speed: 220
+Right Speed: 0
+Qua phai
+405
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+538
+Left Speed: 220
+Right Speed: 0
+Qua phai
+538
+Left Speed: 220
+Right Speed: 0
+Qua phai
+508
+Left Speed: 220
+Right Speed: 0
+Qua phai
+508
+Left Speed: 220
+Right Speed: 0
+Qua phai
+538
+Left Speed: 220
+Right Speed: 0
+Qua phai
+538
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+538
+Left Speed: 220
+Right Speed: 0
+Qua phai
+538
+Left Speed: 220
+Right Speed: 0
+Qua phai
+538
+Left Speed: 220
+Right Speed: 0
+Qua phai
+538
+Left Speed: 220
+Right Speed: 0
+Qua phai
+538
+Left Speed: 220
+Right Speed: 0
+Qua phai
+538
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+538
+Left Speed: 220
+Right Speed: 0
+Qua phai
+538
+Left Speed: 220
+Right Speed: 0
+Qua phai
+538
+Left Speed: 220
+Right Speed: 0
+Qua phai
+508
+Left Speed: 220
+Right Speed: 0
+Qua phai
+508
+Left Speed: 220
+Right Speed: 0
+Qua phai
+508
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+508
+Left Speed: 175
+Right Speed: 175
+Tien
+508
+Left Speed: 175
+Right Speed: 175
+Tien
+508
+Left Speed: 175
+Right Speed: 175
+Tien
+508
+Left Speed: 175
+Right Speed: 175
+Tien
+508
+Left Speed: 175
+Right Speed: 175
+Tien
+508
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+Empty in RUN PERSON DETECTION
+508
+Left Speed: 175
+Right Speed: 175
+Tien
+508
+Left Speed: 175
+Right Speed: 175
+Tien
+481
+Left Speed: 175
+Right Speed: 175
+Tien
+FALL SENTFall signal sent!
+481
+Left Speed: 175
+Right Speed: 175
+Tien
+481
+Left Speed: 175
+Right Speed: 175
+Tien
+481
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+Empty in RUN PERSON DETECTION
+481
+Left Speed: 175
+Right Speed: 175
+Tien
+481
+Left Speed: 175
+Right Speed: 175
+Tien
+481
+Left Speed: 175
+Right Speed: 175
+Tien
+481
+Left Speed: 175
+Right Speed: 175
+Tien
+453
+Left Speed: 175
+Right Speed: 175
+Tien
+453
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+Empty in RUN PERSON DETECTION
+453
+Left Speed: 175
+Right Speed: 175
+Tien
+453
+Left Speed: 175
+Right Speed: 175
+Tien
+453
+Left Speed: 175
+Right Speed: 175
+Tien
+453
+Left Speed: 175
+Right Speed: 175
+Tien
+453
+Left Speed: 220
+Right Speed: 0
+Qua phai
+453
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+453
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+453
+Left Speed: 175
+Right Speed: 175
+Tien
+453
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+453
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+378
+Left Speed: 220
+Right Speed: 0
+Qua phai
+378
+Left Speed: 220
+Right Speed: 0
+Qua phai
+378
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+353
+Left Speed: 220
+Right Speed: 0
+Qua phai
+353
+Left Speed: 220
+Right Speed: 0
+Qua phai
+353
+Left Speed: 220
+Right Speed: 0
+Qua phai
+378
+Left Speed: 220
+Right Speed: 0
+Qua phai
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+353
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+333
+Left Speed: 220
+Right Speed: 0
+Qua phai
+333
+Left Speed: 220
+Right Speed: 0
+Qua phai
+333
+Left Speed: 220
+Right Speed: 0
+Qua phai
+333
+Left Speed: 220
+Right Speed: 0
+Qua phai
+333
+Left Speed: 220
+Right Speed: 0
+Qua phai
+333
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+333
+Left Speed: 220
+Right Speed: 0
+Qua phai
+333
+Left Speed: 220
+Right Speed: 0
+Qua phai
+333
+Left Speed: 220
+Right Speed: 0
+Qua phai
+333
+Left Speed: 220
+Right Speed: 0
+Qua phai
+333
+Left Speed: 220
+Right Speed: 0
+Qua phai
+333
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+333
+Left Speed: 175
+Right Speed: 175
+Tien
+353
+Left Speed: 175
+Right Speed: 175
+Tien
+353
+Left Speed: 175
+Right Speed: 175
+Tien
+353
+Left Speed: 175
+Right Speed: 175
+Tien
+353
+Left Speed: 175
+Right Speed: 175
+Tien
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+353
+Left Speed: 175
+Right Speed: 175
+Tien
+353
+Left Speed: 175
+Right Speed: 175
+Tien
+353
+Left Speed: 175
+Right Speed: 175
+Tien
+353
+Left Speed: 175
+Right Speed: 175
+Tien
+353
+Left Speed: 175
+Right Speed: 175
+Tien
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+453
+Left Speed: 220
+Right Speed: 0
+Qua phai
+453
+Left Speed: 175
+Right Speed: 175
+Tien
+453
+Left Speed: 175
+Right Speed: 175
+Tien
+453
+Left Speed: 220
+Right Speed: 0
+Qua phai
+481
+Left Speed: 220
+Right Speed: 0
+Qua phai
+481
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+453
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+Empty in RUN PERSON DETECTION
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+Empty in RUN PERSON DETECTION
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+453
+Left Speed: 175
+Right Speed: 175
+Tien
+453
+Left Speed: 175
+Right Speed: 175
+Tien
+453
+Left Speed: 175
+Right Speed: 175
+Tien
+453
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+Empty in RUN PERSON DETECTION
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+425
+Left Speed: 175
+Right Speed: 175
+Tien
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+Empty in RUN PERSON DETECTION
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+Empty in RUN PERSON DETECTION
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+378
+Left Speed: 175
+Right Speed: 175
+Tien
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+Empty in RUN PERSON DETECTION
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+400
+Left Speed: 175
+Right Speed: 175
+Tien
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+400
+Left Speed: 220
+Right Speed: 0
+Qua phai
+425
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+425
+Left Speed: 220
+Right Speed: 0
+2 Failed to write to the I2C bus.
+Qua phai
+453
+Left Speed: 220
+Right Speed: 0
+2 Failed to write to the I2C bus.
+Qua phai
+453
+Left Speed: 220
+Right Speed: 0
+2 Failed to write to the I2C bus.
+Qua phai
+453
+Left Speed: 220
+Right Speed: 0
+2 Failed to write to the I2C bus.
+Qua phai
+453
+Left Speed: 220
+Right Speed: 0
+2 Failed to write to the I2C bus.
+Qua phai
+453
+Left Speed: 220
+Right Speed: 0
+2 Failed to write to the I2C bus.
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+453
+Left Speed: 220
+Right Speed: 0
+2 Failed to write to the I2C bus.
+Qua phai
+453
+Left Speed: 220
+Right Speed: 0
+2 Failed to write to the I2C bus.
+Qua phai
+453
+Left Speed: 220
+Right Speed: 0
+2 Failed to write to the I2C bus.
+Qua phai
+481
+Left Speed: 175
+Right Speed: 175
+2 Failed to write to the I2C bus.
+Tien
+481
+Left Speed: 220
+Right Speed: 0
+2 Failed to write to the I2C bus.
+Qua phai
+481
+Left Speed: 220
+Right Speed: 0
+2 Failed to write to the I2C bus.
+Qua phai
+Running person detection
+481
+Left Speed: 220
+Right Speed: 0
+2 Failed to write to the I2C bus.
+Qua phai
+481
+Left Speed: 220
+Right Speed: 0
+2 Failed to write to the I2C bus.
+Qua phai
+481
+Left Speed: 220
+Right Speed: 0
+2 Failed to write to the I2C bus.
+Qua phai
+508
+Left Speed: 175
+Right Speed: 175
+2 Failed to write to the I2C bus.
+Tien
+508
+Left Speed: 175
+Right Speed: 175
+2 Failed to write to the I2C bus.
+Tien
+508
+Left Speed: 220
+Right Speed: 0
+2 Failed to write to the I2C bus.
+Qua phai
+Running person detection
+219
+Left Speed: 0
+Right Speed: 0
+2 Failed to write to the I2C bus.
+Dung
+219
+Left Speed: 0
+Right Speed: 0
+Dung
+219
+Left Speed: 0
+Right Speed: 0
+Dung
+219
+Left Speed: 0
+Right Speed: 0
+Dung
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+234
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+205
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+191
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+180
+Left Speed: 174
+Right Speed: 174
+Lui
+Running person detection
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+186
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+193
+Left Speed: 0
+Right Speed: 0
+Dung
+193
+Left Speed: 0
+Right Speed: 0
+Dung
+193
+Left Speed: 0
+Right Speed: 0
+Dung
+193
+Left Speed: 0
+Right Speed: 0
+Dung
+193
+Left Speed: 0
+Right Speed: 0
+Dung
+193
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+194
+Left Speed: 0
+Right Speed: 0
+Dung
+209
+Left Speed: 0
+Right Speed: 0
+Dung
+209
+Left Speed: 0
+Right Speed: 0
+Dung
+209
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+204
+Left Speed: 0
+Right Speed: 0
+Dung
+204
+Left Speed: 0
+Right Speed: 0
+Dung
+204
+Left Speed: 0
+Right Speed: 0
+Dung
+189
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 220
+Qua trai
+Running person detection
+211
+Left Speed: 0
+Right Speed: 220
+Qua trai
+211
+Left Speed: 0
+Right Speed: 220
+Qua trai
+227
+Left Speed: 0
+Right Speed: 220
+Qua trai
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+227
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+203
+Left Speed: 0
+Right Speed: 0
+Dung
+203
+Left Speed: 0
+Right Speed: 0
+Dung
+203
+Left Speed: 0
+Right Speed: 0
+Dung
+203
+Left Speed: 0
+Right Speed: 0
+Dung
+203
+Left Speed: 0
+Right Speed: 0
+Dung
+203
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+220
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+235
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+256
+Left Speed: 175
+Right Speed: 175
+Tien
+256
+Left Speed: 175
+Right Speed: 175
+Tien
+256
+Left Speed: 175
+Right Speed: 175
+Tien
+256
+Left Speed: 175
+Right Speed: 175
+Tien
+256
+Left Speed: 175
+Right Speed: 175
+Tien
+256
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+271
+Left Speed: 0
+Right Speed: 220
+Qua trai
+271
+Left Speed: 0
+Right Speed: 220
+Qua trai
+271
+Left Speed: 0
+Right Speed: 220
+Qua trai
+271
+Left Speed: 0
+Right Speed: 220
+Qua trai
+271
+Left Speed: 0
+Right Speed: 220
+Qua trai
+253
+Left Speed: 0
+Right Speed: 220
+Qua trai
+Running person detection
+271
+Left Speed: 175
+Right Speed: 175
+Tien
+271
+Left Speed: 175
+Right Speed: 175
+Tien
+271
+Left Speed: 175
+Right Speed: 175
+Tien
+271
+Left Speed: 175
+Right Speed: 175
+Tien
+271
+Left Speed: 175
+Right Speed: 175
+Tien
+271
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+256
+Left Speed: 175
+Right Speed: 175
+Tien
+256
+Left Speed: 175
+Right Speed: 175
+Tien
+256
+Left Speed: 175
+Right Speed: 175
+Tien
+239
+Left Speed: 0
+Right Speed: 0
+Dung
+239
+Left Speed: 0
+Right Speed: 0
+Dung
+239
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+246
+Left Speed: 0
+Right Speed: 0
+Dung
+246
+Left Speed: 0
+Right Speed: 0
+Dung
+246
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+230
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+250
+Left Speed: 174
+Right Speed: 174
+Lui
+250
+Left Speed: 174
+Right Speed: 174
+Lui
+250
+Left Speed: 174
+Right Speed: 174
+Lui
+250
+Left Speed: 174
+Right Speed: 174
+Lui
+250
+Left Speed: 174
+Right Speed: 174
+Lui
+250
+Left Speed: 174
+Right Speed: 174
+Lui
+Running person detection
+255
+Left Speed: 175
+Right Speed: 175
+Tien
+255
+Left Speed: 175
+Right Speed: 175
+Tien
+255
+Left Speed: 175
+Right Speed: 175
+Tien
+255
+Left Speed: 175
+Right Speed: 175
+Tien
+255
+Left Speed: 175
+Right Speed: 175
+Tien
+255
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+281
+Left Speed: 175
+Right Speed: 175
+Tien
+281
+Left Speed: 175
+Right Speed: 175
+Tien
+281
+Left Speed: 175
+Right Speed: 175
+Tien
+281
+Left Speed: 175
+Right Speed: 175
+Tien
+281
+Left Speed: 175
+Right Speed: 175
+Tien
+281
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+335
+Left Speed: 175
+Right Speed: 175
+Tien
+335
+Left Speed: 175
+Right Speed: 175
+Tien
+335
+Left Speed: 175
+Right Speed: 175
+Tien
+335
+Left Speed: 175
+Right Speed: 175
+Tien
+357
+Left Speed: 175
+Right Speed: 175
+Tien
+357
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+398
+Left Speed: 0
+Right Speed: 220
+Qua trai
+423
+Left Speed: 0
+Right Speed: 220
+Qua trai
+423
+Left Speed: 0
+Right Speed: 220
+Qua trai
+423
+Left Speed: 0
+Right Speed: 220
+Qua trai
+423
+Left Speed: 0
+Right Speed: 220
+Qua trai
+423
+Left Speed: 0
+Right Speed: 220
+Qua trai
+Running person detection
+Empty in RUN PERSON DETECTION
+423
+Left Speed: 0
+Right Speed: 220
+Qua trai
+423
+Left Speed: 0
+Right Speed: 220
+Qua trai
+423
+Left Speed: 0
+Right Speed: 220
+Qua trai
+423
+Left Speed: 0
+Right Speed: 220
+Qua trai
+398
+Left Speed: 0
+Right Speed: 220
+Qua trai
+398
+Left Speed: 0
+Right Speed: 220
+Qua trai
+Running person detection
+Empty in RUN PERSON DETECTION
+374
+Left Speed: 0
+Right Speed: 220
+Qua trai
+374
+Left Speed: 0
+Right Speed: 220
+Qua trai
+352
+Left Speed: 0
+Right Speed: 220
+Qua trai
+352
+Left Speed: 0
+Right Speed: 220
+Qua trai
+352
+Left Speed: 0
+Right Speed: 220
+Qua trai
+374
+Left Speed: 0
+Right Speed: 220
+Qua trai
+Running person detection
+Empty in RUN PERSON DETECTION
+374
+Left Speed: 0
+Right Speed: 220
+Qua trai
+374
+Left Speed: 0
+Right Speed: 220
+Qua trai
+352
+Left Speed: 0
+Right Speed: 220
+Qua trai
+352
+Left Speed: 0
+Right Speed: 220
+Qua trai
+330
+Left Speed: 0
+Right Speed: 220
+Qua trai
+330
+Left Speed: 0
+Right Speed: 220
+Qua trai
+Running person detection
+Empty in RUN PERSON DETECTION
+330
+Left Speed: 0
+Right Speed: 220
+Qua trai
+330
+Left Speed: 0
+Right Speed: 220
+Qua trai
+310
+Left Speed: 0
+Right Speed: 220
+Qua trai
+310
+Left Speed: 0
+Right Speed: 220
+Qua trai
+310
+Left Speed: 175
+Right Speed: 175
+Tien
+291
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+Empty in RUN PERSON DETECTION
+291
+Left Speed: 175
+Right Speed: 175
+Tien
+291
+Left Speed: 175
+Right Speed: 175
+Tien
+291
+Left Speed: 175
+Right Speed: 175
+Tien
+272
+Left Speed: 175
+Right Speed: 175
+Tien
+291
+Left Speed: 175
+Right Speed: 175
+Tien
+310
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+Empty in RUN PERSON DETECTION
+310
+Left Speed: 175
+Right Speed: 175
+Tien
+310
+Left Speed: 175
+Right Speed: 175
+Tien
+310
+Left Speed: 175
+Right Speed: 175
+Tien
+291
+Left Speed: 175
+Right Speed: 175
+Tien
+291
+Left Speed: 175
+Right Speed: 175
+Tien
+291
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+Empty in RUN PERSON DETECTION
+310
+Left Speed: 175
+Right Speed: 175
+Tien
+310
+Left Speed: 175
+Right Speed: 175
+Tien
+310
+Left Speed: 175
+Right Speed: 175
+Tien
+310
+Left Speed: 175
+Right Speed: 175
+Tien
+310
+Left Speed: 175
+Right Speed: 175
+Tien
+330
+Left Speed: 175
+Right Speed: 175
+Tien
+Running person detection
+416
+Left Speed: 0
+Right Speed: 220
+Qua trai
+392
+Left Speed: 0
+Right Speed: 220
+Qua trai
+392
+Left Speed: 0
+Right Speed: 220
+Qua trai
+368
+Left Speed: 0
+Right Speed: 220
+Qua trai
+368
+Left Speed: 0
+Right Speed: 220
+Qua trai
+368
+Left Speed: 0
+Right Speed: 220
+Qua trai
+Running person detection
+Empty in RUN PERSON DETECTION
+368
+Left Speed: 0
+Right Speed: 220
+Qua trai
+346
+Left Speed: 0
+Right Speed: 220
+Qua trai
+346
+Left Speed: 0
+Right Speed: 220
+Qua trai
+346
+Left Speed: 0
+Right Speed: 220
+Qua trai
+346
+Left Speed: 0
+Right Speed: 220
+Qua trai
+346
+Left Speed: 0
+Right Speed: 220
+Qua trai
+Running person detection
+Empty in RUN PERSON DETECTION
+346
+Left Speed: 0
+Right Speed: 220
+Qua trai
+346
+Left Speed: 0
+Right Speed: 220
+Qua trai
+346
+Left Speed: 0
+Right Speed: 220
+Qua trai
+346
+Left Speed: 0
+Right Speed: 220
+Qua trai
+346
+Left Speed: 0
+Right Speed: 220
+Qua trai
+346
+Left Speed: 0
+Right Speed: 220
+Qua trai
+Running person detection
+Empty in RUN PERSON DETECTION
+346
+Left Speed: 0
+Right Speed: 220
+Qua trai
+346
+Left Speed: 0
+Right Speed: 220
+Qua trai
+325
+Left Speed: 0
+Right Speed: 220
+Qua trai
+325
+Left Speed: 0
+Right Speed: 220
+Qua trai
+325
+Left Speed: 0
+Right Speed: 220
+Qua trai
+304
+Left Speed: 0
+Right Speed: 220
+Qua trai
+Running person detection
+Empty in RUN PERSON DETECTION
+284
+Left Speed: 0
+Right Speed: 220
+Qua trai
+266
+Left Speed: 0
+Right Speed: 220
+Qua trai
+266
+Left Speed: 0
+Right Speed: 220
+Qua trai
+266
+Left Speed: 0
+Right Speed: 220
+Qua trai
+266
+Left Speed: 0
+Right Speed: 220
+Qua trai
+266
+Left Speed: 0
+Right Speed: 220
+Qua trai
+Running person detection
+Empty in RUN PERSON DETECTION
+266
+Left Speed: 0
+Right Speed: 220
+Qua trai
+266
+Left Speed: 0
+Right Speed: 220
+Qua trai
+250
+Left Speed: 0
+Right Speed: 220
+Qua trai
+250
+Left Speed: 0
+Right Speed: 220
+Qua trai
+266
+Left Speed: 0
+Right Speed: 220
+Qua trai
+250
+Left Speed: 0
+Right Speed: 220
+Qua trai
+Running person detection
+Empty in RUN PERSON DETECTION
+250
+Left Speed: 0
+Right Speed: 220
+Qua trai
+232
+Left Speed: 0
+Right Speed: 220
+Qua trai
+216
+Left Speed: 0
+Right Speed: 220
+Qua trai
+216
+Left Speed: 0
+Right Speed: 220
+Qua trai
+201
+Left Speed: 0
+Right Speed: 220
+Qua trai
+201
+Left Speed: 0
+Right Speed: 220
+Qua trai
+Running person detection
+Empty in RUN PERSON DETECTION
+201
+Left Speed: 0
+Right Speed: 220
+Qua trai
+201
+Left Speed: 0
+Right Speed: 220
+Qua trai
+201
+Left Speed: 0
+Right Speed: 220
+Qua trai
+187
+Left Speed: 0
+Right Speed: 220
+Qua trai
+174
+Left Speed: 0
+Right Speed: 220
+Qua trai
+187
+Left Speed: 0
+Right Speed: 220
+Qua trai
+Running person detection
+Empty in RUN PERSON DETECTION
+201
+Left Speed: 0
+Right Speed: 220
+Qua trai
+201
+Left Speed: 0
+Right Speed: 220
+Qua trai
+201
+Left Speed: 0
+Right Speed: 220
+Qua trai
+216
+Left Speed: 0
+Right Speed: 220
+Qua trai
+216
+Left Speed: 0
+Right Speed: 0
+Dung
+216
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+201
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 220
+Right Speed: 0
+Qua phai
+187
+Left Speed: 220
+Right Speed: 0
+Qua phai
+187
+Left Speed: 220
+Right Speed: 0
+Qua phai
+174
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+174
+Left Speed: 220
+Right Speed: 0
+Qua phai
+174
+Left Speed: 220
+Right Speed: 0
+Qua phai
+174
+Left Speed: 220
+Right Speed: 0
+Qua phai
+187
+Left Speed: 220
+Right Speed: 0
+Qua phai
+187
+Left Speed: 220
+Right Speed: 0
+Qua phai
+174
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+174
+Left Speed: 220
+Right Speed: 0
+Qua phai
+161
+Left Speed: 220
+Right Speed: 0
+Qua phai
+161
+Left Speed: 174
+Right Speed: 174
+Lui
+161
+Left Speed: 0
+Right Speed: 220
+Qua trai
+161
+Left Speed: 0
+Right Speed: 220
+Qua trai
+174
+Left Speed: 0
+Right Speed: 220
+Qua trai
+Running person detection
+Empty in RUN PERSON DETECTION
+174
+Left Speed: 0
+Right Speed: 220
+Qua trai
+174
+Left Speed: 0
+Right Speed: 220
+Qua trai
+174
+Left Speed: 0
+Right Speed: 220
+Qua trai
+174
+Left Speed: 174
+Right Speed: 174
+Lui
+174
+Left Speed: 174
+Right Speed: 174
+Lui
+174
+Left Speed: 0
+Right Speed: 220
+Qua trai
+Running person detection
+Empty in RUN PERSON DETECTION
+174
+Left Speed: 0
+Right Speed: 220
+Qua trai
+161
+Left Speed: 0
+Right Speed: 220
+Qua trai
+174
+Left Speed: 0
+Right Speed: 220
+Qua trai
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 0
+Right Speed: 220
+Qua trai
+Running person detection
+Empty in RUN PERSON DETECTION
+187
+Left Speed: 0
+Right Speed: 0
+Dung
+187
+Left Speed: 220
+Right Speed: 0
+Qua phai
+201
+Left Speed: 220
+Right Speed: 0
+Qua phai
+201
+Left Speed: 220
+Right Speed: 0
+Qua phai
+187
+Left Speed: 220
+Right Speed: 0
+Qua phai
+174
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+174
+Left Speed: 174
+Right Speed: 174
+Lui
+187
+Left Speed: 220
+Right Speed: 0
+Qua phai
+187
+Left Speed: 220
+Right Speed: 0
+Qua phai
+187
+Left Speed: 220
+Right Speed: 0
+Qua phai
+187
+Left Speed: 220
+Right Speed: 0
+Qua phai
+201
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+201
+Left Speed: 220
+Right Speed: 0
+Qua phai
+216
+Left Speed: 220
+Right Speed: 0
+Qua phai
+216
+Left Speed: 220
+Right Speed: 0
+Qua phai
+232
+Left Speed: 220
+Right Speed: 0
+Qua phai
+232
+Left Speed: 220
+Right Speed: 0
+Qua phai
+232
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+232
+Left Speed: 220
+Right Speed: 0
+Qua phai
+232
+Left Speed: 220
+Right Speed: 0
+Qua phai
+232
+Left Speed: 220
+Right Speed: 0
+Qua phai
+232
+Left Speed: 220
+Right Speed: 0
+Qua phai
+232
+Left Speed: 220
+Right Speed: 0
+Qua phai
+232
+Left Speed: 220
+Right Speed: 0
+Qua phai
+Running person detection
+Empty in RUN PERSON DETECTION
+250
+Left Speed: 220
+Right Speed: 0
+Qua phai
+232
+Left Speed: 220
+Right Speed: 0
+Qua phai
+216
+Left Speed: 0
+Right Speed: 0
+Dung
+216
+Left Speed: 0
+Right Speed: 0
+Dung
+216
+Left Speed: 0
+Right Speed: 0
+Dung
+216
+Left Speed: 0
+Right Speed: 0
+Dung
+Running person detection
+Empty in RUN PERSON DETECTION
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+232
+Left Speed: 0
+Right Speed: 0
+Dung
+Time average: 0.0410951
+Number of Frames: 2162
+Left Speed: 0
+Right Speed: 0
